@@ -128,8 +128,8 @@ PUTCHAR_PROTOTYPE
 
 
 ## Output screen shots of Serial port utility   :
-https://github.com/karthigaprabha/EXPERIMENT--03-Interface-iot-development-board-and-configure-the-USART-for-transferring-strings
- 
+ ![Screenshot (148)](https://github.com/user-attachments/assets/d3369a04-8117-4b53-9020-b61a8fb5f138)
+
  
  
  
